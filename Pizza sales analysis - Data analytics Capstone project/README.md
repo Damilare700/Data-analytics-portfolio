@@ -8,7 +8,8 @@ Analyzed order-level sales data covering 21,350 orders and 49,574 pizzas sold. B
 
 Applied skills in data cleaning, modeling, DAX, and visual storytelling learned during training.
 
-### **KEY FEATURES** : **Power BI Version:**
+### **KEY FEATURES** : 
+**Power BI Version:**
 - **DAX Measures**: Total Revenue, Total Orders, Average Order Value, Total Pizzas Sold
 - **Data Model**: Star schema with fact + dimension tables
 - **Visuals**: KPI cards, category bars, daily trend line, day/hour heatmap
