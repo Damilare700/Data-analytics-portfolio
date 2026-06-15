@@ -12,4 +12,4 @@ DASHBOARD PREVIEW : <img width="809" height="446" alt="Churn dashboard" src="htt
 
 WHAT I LEARNED : How to translate raw customer data into retention recommendations. Practiced building a clean model and writing DAX for cohort analysis. This project helped me understand how to contract structure and payment friction drive churn.
 
-FILES : Customer_churn_dashboard.pbix - Download to explore the full interactive report
+FILES : Customer churn dashboard.pbix - Download to explore the full interactive report
