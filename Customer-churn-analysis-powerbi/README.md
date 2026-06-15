@@ -1,8 +1,15 @@
 PROJECT GOAL : This is self - initiated portfolio project exploring customer churn using a publicly available telecom dataset. I wanted to practice end-to-end Power BI development, from data modelling to sakeholder-ready insights.
+
 APPROACH : Analyzed 7,043 customer records to identify drivers for churn. Built a star schema model connecting customer demographics, contract details, and service usage. Created DAX measures for churn rate, customer counts and revenue impact.
+
 KEY FEATURES : (A) DAX Measures ; Churn rate, Total customers, Total churn, Avg monthly charges, Avg tenure. (B) Data Model ; Star schema with 'customer data', 'contract', and 'services' tables. (C) Visuals ; KPI cards, donut charts, chart by contract and tenure bands. (D) Interactivity ; Slicers for contract, tenure, payment method and gender.
+
 KEY FINDINGS : (A) Contract impact ; Month-to-month contracts showed 42.7% churn vs 2.8% for 2-year contracts. (B) Tenure risk ; 60% of churned customers had tenure under 12 months. (C) Payment methods ; Electronic check users had higher average monthly charges among churned customers: $74.44 vs $61.27 for retained. (D) Demographics ; Senior citizens had 41.7% churn rate vs 26.54% overall.
+
 TOOLS USED : Power BI, Excel, DAX, Power query, Data modelling, cohort analysis, customer segmentation.
+
 DASHBOARD PREVIEW : <img width="809" height="446" alt="Churn dashboard" src="https://github.com/user-attachments/assets/cf11ff2f-579f-494a-802c-27377016d0c5" />
+
 WHAT I LEARNED : How to translate raw customer data into retention recommendations. Practiced building a clean model and writing DAX for cohort analysis. This project helped me understand how to contract structure and payment friction drive churn.
+
 FILES : Customer_churn_dashboard.pbix - Download to explore the full interactive report
