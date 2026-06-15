@@ -1,11 +1,12 @@
-**PROJECT BACKGROUND**
-Final project completed after finalizing my data analytics training program. The goal wass to demonstrate end-to-end analysis skills using both Excel and Power BI on the same pizza restaurant dataset, showcasing ability to deliver insights in multiple tools.
+**Project Background**
+Final project completed after finishing my Data Analytics training program. The goal was to demonstrate end-to-end analysis skills using both Excel and Power BI on the same pizza restaurant dataset, showcasing ability to deliver insights in multiple tools.
 
-**APPROACH**
-Analyzed oreder-level sales data covering 21,350 orders and 49,574 pizzas sold. Built two versiond; (A) Exceel version - Pivot tables, charts, slicers and KPI dashboards for stakeholder review. (B) Power BI version - Multi page interactive report with advanced DAX and time intelligence.
+**Approach**
+Analyzed order-level sales data covering 21,350 orders and 49,574 pizzas sold. Built two versions:
+1. **Excel Version**: Pivot tables, charts, slicers, and KPI dashboard for stakeholder review
+2. **Power BI Version**: Multi-page interactive report with advanced DAX and time intelligence
 
-Applied skills in data cleaning, modelling, DAX, and visual storytelling learned during training.
-
+Applied skills in data cleaning, modeling, DAX, and visual storytelling learned during training.
 **KEY FEATURES** : **Power BI Version:**
 - **DAX Measures**: Total Revenue, Total Orders, Average Order Value, Total Pizzas Sold
 - **Data Model**: Star schema with fact + dimension tables
